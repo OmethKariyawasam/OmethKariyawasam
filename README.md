@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ometh Kariyawasam
 - 👀 I’m interested in frontend web and mobile development.
-- 🌱 I’m an Undergraduate of Software Engineering and currently in my 2nd year.
+- 🌱 I’m an Undergraduate of Software Engineering and currently in my final year.
 - 💞️ I’m looking to collaborate on any project to improve my skills.
 - 📫 How to reach me omethkariyawasam07@gmail.com
